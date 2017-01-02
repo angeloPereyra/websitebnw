@@ -44,6 +44,11 @@ nav li{
 	padding-right: 2px;
 }
 
+nav li:hover{
+	border-bottom: 1px solid black;
+	padding-bottom: 9px;
+}
+
 nav a{
 	text-transform: lowercase;
 }
